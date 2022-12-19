@@ -14,6 +14,7 @@ disableKinds = ["taxonomy", "term"]
   links = [
     { github = "https://github.com/callumkerredwards" },
     { twitter = "https://twitter.com/callumke" },
+    { mastodon = "https://mastodonapp.uk/@callumke" },
   ]
 
 [markup.highlight]
