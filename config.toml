@@ -1,1 +1,4 @@
+baseURL = 'https://callum.kerson.dev'
+languageCode = 'en-gb'
+title = 'Callum Kerson'
 theme = 'LoveIt'
