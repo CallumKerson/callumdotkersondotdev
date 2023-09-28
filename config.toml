@@ -12,8 +12,7 @@ disableKinds = ["taxonomy", "term"]
   headline = "Some links to find me around the internet"
   image = "avatar.jpg"
   links = [
-    { github = "https://github.com/callumkerredwards" },
-    { twitter = "https://twitter.com/callumke" },
+    { github = "https://github.com/CallumKerson" },
     { mastodon = "https://mastodonapp.uk/@callumke" },
   ]
 
